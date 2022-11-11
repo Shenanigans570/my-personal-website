@@ -1,4 +1,4 @@
 body {
     background: grey;
-    background-image: src='/Users/ryansullivan/Development/code/my-personal-website/quinfinn.jpeg'
+    background-image: url('/Users/ryansullivan/Development/code/my-personal-website/quinfinn.jpeg')
   }
